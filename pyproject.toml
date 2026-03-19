@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pynop-cli"
+version = "0.1.0"
+description = "Python NopCommerce CLI and DB access (MSSQL/pyodbc)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Sync Team" }]
+keywords = ["nopcommerce", "mssql", "pyodbc", "cli"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [
+    "pyodbc>=4.0.30",
+    "python-slugify>=5.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=6.0"]
+
+[project.scripts]
+nopcommerce = "pynop.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"
