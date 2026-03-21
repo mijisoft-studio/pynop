@@ -1,0 +1,3 @@
+class BizError(Exception):
+    pass
+

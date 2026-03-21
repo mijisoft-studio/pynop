@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pynop
+Version: 0.1.13
+Summary: Shared DB/core + NopCommerce tooling for ABC StoreDataSync
+Author-email: ABC Sync <noreply@example.com>
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# pynop (ABC StoreDataSync)
+
+This package contains the shared `core` utilities (DB access, Biz/log framework) and the `NopTool`/`NopQuery` helpers used by the `sync` project.
+
