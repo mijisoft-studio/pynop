@@ -1,4 +1,4 @@
-# pynop-cli
+# pynop
 
 Python NopCommerce CLI and database access for MSSQL (pyodbc). Extracted from the sync project for standalone use.
 
@@ -12,7 +12,7 @@ Python NopCommerce CLI and database access for MSSQL (pyodbc). Extracted from th
 
 ```bash
 pip install -e .
-# or from PyPI (when published): pip install pynop-cli
+# or from PyPI (when published): pip install pynop
 ```
 
 Requires **ODBC Driver 17 for SQL Server** (or compatible) and a working MSSQL instance.

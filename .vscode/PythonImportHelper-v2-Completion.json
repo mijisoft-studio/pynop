@@ -1,0 +1,1349 @@
+[
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "pynop.core.db",
+        "description": "pynop.core.db",
+        "isExtraImport": true,
+        "detail": "pynop.core.db",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "settings",
+        "description": "settings",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "pyodbc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyodbc",
+        "description": "pyodbc",
+        "detail": "pyodbc",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "TimedRotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "pymsteams",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymsteams",
+        "description": "pymsteams",
+        "detail": "pymsteams",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "WebClient",
+        "importPath": "slack_sdk",
+        "description": "slack_sdk",
+        "isExtraImport": true,
+        "detail": "slack_sdk",
+        "documentation": {}
+    },
+    {
+        "label": "SlackApiError",
+        "importPath": "slack_sdk.errors",
+        "description": "slack_sdk.errors",
+        "isExtraImport": true,
+        "detail": "slack_sdk.errors",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "magic",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "magic",
+        "description": "magic",
+        "detail": "magic",
+        "documentation": {}
+    },
+    {
+        "label": "md5",
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "isExtraImport": true,
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "simplejson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "simplejson",
+        "description": "simplejson",
+        "detail": "simplejson",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal128",
+        "importPath": "bson.decimal128",
+        "description": "bson.decimal128",
+        "isExtraImport": true,
+        "detail": "bson.decimal128",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Retry",
+        "importPath": "urllib3.util.retry",
+        "description": "urllib3.util.retry",
+        "isExtraImport": true,
+        "detail": "urllib3.util.retry",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAdapter",
+        "importPath": "requests.adapters",
+        "description": "requests.adapters",
+        "isExtraImport": true,
+        "detail": "requests.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "slugify",
+        "description": "slugify",
+        "isExtraImport": true,
+        "detail": "slugify",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_env",
+        "kind": 2,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "def get_db_env(key):\n    new_key = db_env.upper() + '_' + key\n    return env(new_key)\nDB_CONFIG = {\n    'env': db_env,\n}\nDB_CONFIG[db_env] = {\n    'erp' : {\n        'db_engine': 'DSN',\n        'db_server': 'DSN=abc-erp',",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "env = environ.Env()\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\n# Database\ndb_env = env('DB_ENV')\ndef get_db_env(key):\n    new_key = db_env.upper() + '_' + key\n    return env(new_key)\nDB_CONFIG = {\n    'env': db_env,",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\n# Database\ndb_env = env('DB_ENV')\ndef get_db_env(key):\n    new_key = db_env.upper() + '_' + key\n    return env(new_key)\nDB_CONFIG = {\n    'env': db_env,\n}",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "db_env",
+        "kind": 5,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "db_env = env('DB_ENV')\ndef get_db_env(key):\n    new_key = db_env.upper() + '_' + key\n    return env(new_key)\nDB_CONFIG = {\n    'env': db_env,\n}\nDB_CONFIG[db_env] = {\n    'erp' : {\n        'db_engine': 'DSN',",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "DB_CONFIG",
+        "kind": 5,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "DB_CONFIG = {\n    'env': db_env,\n}\nDB_CONFIG[db_env] = {\n    'erp' : {\n        'db_engine': 'DSN',\n        'db_server': 'DSN=abc-erp',\n        'db_name': '',\n        'db_username': '',\n        'db_password': ''",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "DB_CONFIG[db_env]",
+        "kind": 5,
+        "importPath": "pynop.core.settings.db",
+        "description": "pynop.core.settings.db",
+        "peekOfCode": "DB_CONFIG[db_env] = {\n    'erp' : {\n        'db_engine': 'DSN',\n        'db_server': 'DSN=abc-erp',\n        'db_name': '',\n        'db_username': '',\n        'db_password': ''\n    },\n    'staging': {\n        'db_engine': get_db_env('STAGING_DB_ENGINE'),",
+        "detail": "pynop.core.settings.db",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "pynop.core.settings.main",
+        "description": "pynop.core.settings.main",
+        "peekOfCode": "env = environ.Env()\nBASE_DIR = Path(__file__).parent.parent.parent\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\nprint (\"============================== Sync Settings ==============================\")",
+        "detail": "pynop.core.settings.main",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pynop.core.settings.main",
+        "description": "pynop.core.settings.main",
+        "peekOfCode": "BASE_DIR = Path(__file__).parent.parent.parent\nenviron.Env.read_env(os.path.join(BASE_DIR, '.env'))\nprint (\"============================== Sync Settings ==============================\")",
+        "detail": "pynop.core.settings.main",
+        "documentation": {}
+    },
+    {
+        "label": "StagingQuery",
+        "kind": 6,
+        "importPath": "pynop.core.staging.staging_sql",
+        "description": "pynop.core.staging.staging_sql",
+        "peekOfCode": "class StagingQuery(Query):\n    INSERT_STA_PRODUCT_RAW_SQL = \"\"\"\n        INSERT INTO [dbo].[erp_product_raw]\n            ([ITEM_NUMBER]\n            ,[DESCRIPTION]\n            ,[UNIT_OF_MEASURE]\n            ,[UNIT_COST]\n            ,[PRODUCT_TYPE]\n            ,[DEPARTMENT]\n            ,[SELL_PRICE]",
+        "detail": "pynop.core.staging.staging_sql",
+        "documentation": {}
+    },
+    {
+        "label": "Biz",
+        "kind": 6,
+        "importPath": "pynop.core.biz",
+        "description": "pynop.core.biz",
+        "peekOfCode": "class Biz:\n    \"\"\"\n    Abstract class to describe business logic of sync program.\n    \"\"\"\n    def __init__(self, settings):\n        log_level = settings.LOG_LEVEL_OPTION\n        log_dir_path = settings.LOG_DIR_PATH\n        app_started_time = settings.APP_STARTED_TIME\n        self.logger = DataLogger(str(type(self).__name__), log_level, log_dir_path, app_started_time)\n        self.reports = {}",
+        "detail": "pynop.core.biz",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp",
+        "kind": 2,
+        "importPath": "pynop.core.biz",
+        "description": "pynop.core.biz",
+        "peekOfCode": "def timestamp():\n    \"\"\"Return current timestamp as a formatted string.\"\"\"\n    return datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\ndef mark(func):\n    \"\"\"Decorator to print markers with timestamps before, after, and on exceptions.\"\"\"\n    @functools.wraps(func)\n    def wrapper(*args, **kwargs):\n        # assume first arg is self\n        self = args[0]\n        logger = getattr(self, \"logger\", None)",
+        "detail": "pynop.core.biz",
+        "documentation": {}
+    },
+    {
+        "label": "mark",
+        "kind": 2,
+        "importPath": "pynop.core.biz",
+        "description": "pynop.core.biz",
+        "peekOfCode": "def mark(func):\n    \"\"\"Decorator to print markers with timestamps before, after, and on exceptions.\"\"\"\n    @functools.wraps(func)\n    def wrapper(*args, **kwargs):\n        # assume first arg is self\n        self = args[0]\n        logger = getattr(self, \"logger\", None)\n        start_msg = f\"[{timestamp()}] --- START {func.__qualname__} ---\"\n        end_msg = f\"[{timestamp()}] --- END {func.__qualname__} ---\"\n        try:",
+        "detail": "pynop.core.biz",
+        "documentation": {}
+    },
+    {
+        "label": "auto_mark_methods",
+        "kind": 2,
+        "importPath": "pynop.core.biz",
+        "description": "pynop.core.biz",
+        "peekOfCode": "def auto_mark_methods(cls):\n    \"\"\"Class decorator to apply `mark` to all methods of a class.\"\"\"\n    for attr_name, attr_value in cls.__dict__.items():\n        if callable(attr_value) and not attr_name.startswith(\"__\"):\n            setattr(cls, attr_name, mark(attr_value))\n    return cls\nclass Biz:\n    \"\"\"\n    Abstract class to describe business logic of sync program.\n    \"\"\"",
+        "detail": "pynop.core.biz",
+        "documentation": {}
+    },
+    {
+        "label": "PYODBC_MSSQL_CONNECTION_STRING",
+        "kind": 5,
+        "importPath": "pynop.core.config",
+        "description": "pynop.core.config",
+        "peekOfCode": "PYODBC_MSSQL_CONNECTION_STRING = \"DRIVER={ODBC Driver 17 for SQL Server};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\n#PYODBC_MSSQL_CONNECTION_STRING = \"DRIVER={SQL Server};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\nPYODBC_MYSQL_CONNECTION_STRING = \"DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\nPYMONGO_CONNECTION_STRING = \"mongodb://{server}:27017/\"\n#PYMONGO_CONNECTION_STRING = \"mongodb+srv://{username}:{password}@{server}/{db_name}\"",
+        "detail": "pynop.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "#PYODBC_MSSQL_CONNECTION_STRING",
+        "kind": 5,
+        "importPath": "pynop.core.config",
+        "description": "pynop.core.config",
+        "peekOfCode": "#PYODBC_MSSQL_CONNECTION_STRING = \"DRIVER={SQL Server};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\nPYODBC_MYSQL_CONNECTION_STRING = \"DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\nPYMONGO_CONNECTION_STRING = \"mongodb://{server}:27017/\"\n#PYMONGO_CONNECTION_STRING = \"mongodb+srv://{username}:{password}@{server}/{db_name}\"",
+        "detail": "pynop.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "PYODBC_MYSQL_CONNECTION_STRING",
+        "kind": 5,
+        "importPath": "pynop.core.config",
+        "description": "pynop.core.config",
+        "peekOfCode": "PYODBC_MYSQL_CONNECTION_STRING = \"DRIVER={MySQL ODBC 8.0 Unicode Driver};SERVER=%s;DATABASE=%s;UID=%s;PWD=%s\"\nPYMONGO_CONNECTION_STRING = \"mongodb://{server}:27017/\"\n#PYMONGO_CONNECTION_STRING = \"mongodb+srv://{username}:{password}@{server}/{db_name}\"",
+        "detail": "pynop.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "PYMONGO_CONNECTION_STRING",
+        "kind": 5,
+        "importPath": "pynop.core.config",
+        "description": "pynop.core.config",
+        "peekOfCode": "PYMONGO_CONNECTION_STRING = \"mongodb://{server}:27017/\"\n#PYMONGO_CONNECTION_STRING = \"mongodb+srv://{username}:{password}@{server}/{db_name}\"",
+        "detail": "pynop.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "#PYMONGO_CONNECTION_STRING",
+        "kind": 5,
+        "importPath": "pynop.core.config",
+        "description": "pynop.core.config",
+        "peekOfCode": "#PYMONGO_CONNECTION_STRING = \"mongodb+srv://{username}:{password}@{server}/{db_name}\"",
+        "detail": "pynop.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "DB",
+        "kind": 6,
+        "importPath": "pynop.core.db",
+        "description": "pynop.core.db",
+        "peekOfCode": "class DB:\n    _conn = None\n    _cursor = None\n    def __init__(self, db_engine, db_server, db_name, db_username, db_password):\n        if db_engine == \"MONGO\":\n            self._conn = MongoClient(PYMONGO_CONNECTION_STRING.format(server=db_server))\n            self._cursor = self._conn[db_name]\n        else:\n            conn_str = \"\"\n            if db_engine == \"MSSQL\":",
+        "detail": "pynop.core.db",
+        "documentation": {}
+    },
+    {
+        "label": "AutoDao",
+        "kind": 6,
+        "importPath": "pynop.core.db",
+        "description": "pynop.core.db",
+        "peekOfCode": "class AutoDao:\n    def __init__(self, db_type=\"\", db_engine=\"\", db_server=\"\", db_name=\"\", db_username=\"\", db_password=\"\"):\n        env = DB_CONFIG[\"env\"]\n        if db_type and db_type in DB_CONFIG[env].keys():\n            self.db = DB(\n                DB_CONFIG[env][db_type][\"db_engine\"],\n                DB_CONFIG[env][db_type][\"db_server\"],\n                DB_CONFIG[env][db_type][\"db_name\"],\n                DB_CONFIG[env][db_type][\"db_username\"],\n                DB_CONFIG[env][db_type][\"db_password\"],",
+        "detail": "pynop.core.db",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "kind": 6,
+        "importPath": "pynop.core.db",
+        "description": "pynop.core.db",
+        "peekOfCode": "class Query:\n    pass",
+        "detail": "pynop.core.db",
+        "documentation": {}
+    },
+    {
+        "label": "BizError",
+        "kind": 6,
+        "importPath": "pynop.core.exceptions",
+        "description": "pynop.core.exceptions",
+        "peekOfCode": "class BizError(Exception):\n    pass",
+        "detail": "pynop.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DataLogger",
+        "kind": 6,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "class DataLogger:\n\tdef __init__(self, biz_name='DataBiz', log_level='INFO', log_dir_path='./', app_started_time=datetime.now()):\n\t\tif not os.path.exists(log_dir_path):\n\t\t\tos.makedirs(log_dir_path)\n\t\tself.log_level = log_level.upper()\n\t\tself.log_dir_path = log_dir_path\n\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(\n\t\t\t#level=logging.DEBUG,\n\t\t    #format=\"%(asctime)s [%(biz_name)-2s] %(levelname)-2s: %(message)s\",",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "BIG_DIVIDER",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "BIG_DIVIDER = \"\"\"\n======================================================================\n\"\"\"\nDIVIDER = \"\"\"\n----------------------------------------------------------------------\n\"\"\"\nBIG_LINEFEED = \"\\n\\n\"\nLINEFEED = \"\\n\"\nclass DataLogger:\n\tdef __init__(self, biz_name='DataBiz', log_level='INFO', log_dir_path='./', app_started_time=datetime.now()):",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "DIVIDER",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "DIVIDER = \"\"\"\n----------------------------------------------------------------------\n\"\"\"\nBIG_LINEFEED = \"\\n\\n\"\nLINEFEED = \"\\n\"\nclass DataLogger:\n\tdef __init__(self, biz_name='DataBiz', log_level='INFO', log_dir_path='./', app_started_time=datetime.now()):\n\t\tif not os.path.exists(log_dir_path):\n\t\t\tos.makedirs(log_dir_path)\n\t\tself.log_level = log_level.upper()",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "BIG_LINEFEED",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "BIG_LINEFEED = \"\\n\\n\"\nLINEFEED = \"\\n\"\nclass DataLogger:\n\tdef __init__(self, biz_name='DataBiz', log_level='INFO', log_dir_path='./', app_started_time=datetime.now()):\n\t\tif not os.path.exists(log_dir_path):\n\t\t\tos.makedirs(log_dir_path)\n\t\tself.log_level = log_level.upper()\n\t\tself.log_dir_path = log_dir_path\n\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "LINEFEED",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "LINEFEED = \"\\n\"\nclass DataLogger:\n\tdef __init__(self, biz_name='DataBiz', log_level='INFO', log_dir_path='./', app_started_time=datetime.now()):\n\t\tif not os.path.exists(log_dir_path):\n\t\t\tos.makedirs(log_dir_path)\n\t\tself.log_level = log_level.upper()\n\t\tself.log_dir_path = log_dir_path\n\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(\n\t\t\t#level=logging.DEBUG,",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.log_level",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tself.log_level = log_level.upper()\n\t\tself.log_dir_path = log_dir_path\n\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(\n\t\t\t#level=logging.DEBUG,\n\t\t    #format=\"%(asctime)s [%(biz_name)-2s] %(levelname)-2s: %(message)s\",\n\t\t)\n\t\tself.logger = logging.getLogger(biz_name)\n\t\tif self.log_level == 'DEBUG':\n\t\t\tself.logger.setLevel(logging.DEBUG)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.log_dir_path",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tself.log_dir_path = log_dir_path\n\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(\n\t\t\t#level=logging.DEBUG,\n\t\t    #format=\"%(asctime)s [%(biz_name)-2s] %(levelname)-2s: %(message)s\",\n\t\t)\n\t\tself.logger = logging.getLogger(biz_name)\n\t\tif self.log_level == 'DEBUG':\n\t\t\tself.logger.setLevel(logging.DEBUG)\n\t\telif self.log_level == 'INFO':",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.app_started_time",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tself.app_started_time = app_started_time\n\t\tlogging.basicConfig(\n\t\t\t#level=logging.DEBUG,\n\t\t    #format=\"%(asctime)s [%(biz_name)-2s] %(levelname)-2s: %(message)s\",\n\t\t)\n\t\tself.logger = logging.getLogger(biz_name)\n\t\tif self.log_level == 'DEBUG':\n\t\t\tself.logger.setLevel(logging.DEBUG)\n\t\telif self.log_level == 'INFO':\n\t\t\tself.logger.setLevel(logging.INFO)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.logger",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tself.logger = logging.getLogger(biz_name)\n\t\tif self.log_level == 'DEBUG':\n\t\t\tself.logger.setLevel(logging.DEBUG)\n\t\telif self.log_level == 'INFO':\n\t\t\tself.logger.setLevel(logging.INFO)\n\t\telif self.log_level == 'WARNING':\n\t\t\tself.logger.setLevel(logging.WARNING)\n\t\telif self.log_level == 'ERROR':\n\t\t\tself.logger.setLevel(logging.ERROR)\n\t\telif self.log_level == 'FATAL' or log_level == 'CRITICAL':",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlog_filename",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tlog_filename = self.app_started_time.strftime(\"%Y%m%d_%H%M%S\") + \"_\" + biz_name + \".log\"\n\t\tself.log_filename = os.path.join(self.log_dir_path, log_filename)\n\t\ttrh = TimedRotatingFileHandler(self.log_filename, when='D', interval=1, backupCount=settings.LOG_MAX_RETENTION_DAYS, encoding=\"utf8\")\n\t\ttrh.suffix = \"%Y%m%d_%H%M%S\"\n\t\tself.logger.addHandler(trh)\n\t\tABC_SIGNATURE = f\"\"\"\n======================================================================\n\t*Task Title : ABC Sync -> {biz_name}\n\t*Started Time : {app_started_time}\n======================================================================",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.log_filename",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tself.log_filename = os.path.join(self.log_dir_path, log_filename)\n\t\ttrh = TimedRotatingFileHandler(self.log_filename, when='D', interval=1, backupCount=settings.LOG_MAX_RETENTION_DAYS, encoding=\"utf8\")\n\t\ttrh.suffix = \"%Y%m%d_%H%M%S\"\n\t\tself.logger.addHandler(trh)\n\t\tABC_SIGNATURE = f\"\"\"\n======================================================================\n\t*Task Title : ABC Sync -> {biz_name}\n\t*Started Time : {app_started_time}\n======================================================================\n\"\"\"",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrh",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\ttrh = TimedRotatingFileHandler(self.log_filename, when='D', interval=1, backupCount=settings.LOG_MAX_RETENTION_DAYS, encoding=\"utf8\")\n\t\ttrh.suffix = \"%Y%m%d_%H%M%S\"\n\t\tself.logger.addHandler(trh)\n\t\tABC_SIGNATURE = f\"\"\"\n======================================================================\n\t*Task Title : ABC Sync -> {biz_name}\n\t*Started Time : {app_started_time}\n======================================================================\n\"\"\"\n\t\tself.log(ABC_SIGNATURE, log_level)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrh.suffix",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\ttrh.suffix = \"%Y%m%d_%H%M%S\"\n\t\tself.logger.addHandler(trh)\n\t\tABC_SIGNATURE = f\"\"\"\n======================================================================\n\t*Task Title : ABC Sync -> {biz_name}\n\t*Started Time : {app_started_time}\n======================================================================\n\"\"\"\n\t\tself.log(ABC_SIGNATURE, log_level)\n\tdef end(self):",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tABC_SIGNATURE",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tABC_SIGNATURE = f\"\"\"\n======================================================================\n\t*Task Title : ABC Sync -> {biz_name}\n\t*Started Time : {app_started_time}\n======================================================================\n\"\"\"\n\t\tself.log(ABC_SIGNATURE, log_level)\n\tdef end(self):\n\t\thandlers = self.logger.handlers[:]\n\t\tfor handler in handlers:",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\thandlers",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\thandlers = self.logger.handlers[:]\n\t\tfor handler in handlers:\n\t\t\thandler.close()\n\t\t\tself.logger.removeHandler(handler)\n\tdef log(self, msg, log_level=\"warning\"):\t\t\n\t\tif log_level.lower() == \"warning\":\n\t\t\tself.logger.warning(msg)\n\t\telif log_level.lower() == \"info\":\n\t\t\tself.logger.info(msg)\n\t\telif log_level.lower() == \"debug\":",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\ttitle",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\t\ttitle = self.logger.name\n\t\tTITLE_SPACES = \"\t  \"\n\t\tmsg = BIG_DIVIDER + LINEFEED + TITLE_SPACES + title + DIVIDER + LINEFEED\n\t\tself.log(msg, log_level)\n\tdef log_func_title(self, title=\"\", log_level=\"info\"):\t\t\n\t\tmsg = LINEFEED + LINEFEED + \"- \" + title + DIVIDER\n\t\tself.log(msg, log_level)\n\tdef log_current_time(self):\n\t\tself.log(LINEFEED + \"** Started Time : {s}\".format(s = self.app_started_time))\n\t\tself.log(LINEFEED + \"** Current Time : {c}\".format(c = datetime.now()))",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tTITLE_SPACES",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tTITLE_SPACES = \"\t  \"\n\t\tmsg = BIG_DIVIDER + LINEFEED + TITLE_SPACES + title + DIVIDER + LINEFEED\n\t\tself.log(msg, log_level)\n\tdef log_func_title(self, title=\"\", log_level=\"info\"):\t\t\n\t\tmsg = LINEFEED + LINEFEED + \"- \" + title + DIVIDER\n\t\tself.log(msg, log_level)\n\tdef log_current_time(self):\n\t\tself.log(LINEFEED + \"** Started Time : {s}\".format(s = self.app_started_time))\n\t\tself.log(LINEFEED + \"** Current Time : {c}\".format(c = datetime.now()))\n\t\tself.log(LINEFEED + \"**  Wasted Time : {w}\".format(w = datetime.now() - self.app_started_time))",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmsg",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tmsg = BIG_DIVIDER + LINEFEED + TITLE_SPACES + title + DIVIDER + LINEFEED\n\t\tself.log(msg, log_level)\n\tdef log_func_title(self, title=\"\", log_level=\"info\"):\t\t\n\t\tmsg = LINEFEED + LINEFEED + \"- \" + title + DIVIDER\n\t\tself.log(msg, log_level)\n\tdef log_current_time(self):\n\t\tself.log(LINEFEED + \"** Started Time : {s}\".format(s = self.app_started_time))\n\t\tself.log(LINEFEED + \"** Current Time : {c}\".format(c = datetime.now()))\n\t\tself.log(LINEFEED + \"**  Wasted Time : {w}\".format(w = datetime.now() - self.app_started_time))\n\tdef log_step(self, step=\"\", log_level=\"info\"):",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmsg",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tmsg = LINEFEED + LINEFEED + \"- \" + title + DIVIDER\n\t\tself.log(msg, log_level)\n\tdef log_current_time(self):\n\t\tself.log(LINEFEED + \"** Started Time : {s}\".format(s = self.app_started_time))\n\t\tself.log(LINEFEED + \"** Current Time : {c}\".format(c = datetime.now()))\n\t\tself.log(LINEFEED + \"**  Wasted Time : {w}\".format(w = datetime.now() - self.app_started_time))\n\tdef log_step(self, step=\"\", log_level=\"info\"):\n\t\tmsg = LINEFEED + BIG_DIVIDER + LINEFEED + \".. \" + step + LINEFEED\n\t\tself.log(msg, log_level)\n\tdef log_data(self, data={}, log_level=\"debug\"):",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmsg",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tmsg = LINEFEED + BIG_DIVIDER + LINEFEED + \".. \" + step + LINEFEED\n\t\tself.log(msg, log_level)\n\tdef log_data(self, data={}, log_level=\"debug\"):\n\t\tfor k, v in data.items():\t\t\t\n\t\t\tself.log(f\"{k} : {v}\", log_level)\n\tdef log_biz_msg(self, msg_title, msg_text, log_level=\"info\"):\n\t\tmsg = LINEFEED + \"*\" + msg_title + \":\" + LINEFEED + \"  \" + msg_text\n\t\tself.log(msg, log_level)\n\tdef log_query(self, sql_name, sql):\n\t\tself.log_divider(\"debug\")",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmsg",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\tmsg = LINEFEED + \"*\" + msg_title + \":\" + LINEFEED + \"  \" + msg_text\n\t\tself.log(msg, log_level)\n\tdef log_query(self, sql_name, sql):\n\t\tself.log_divider(\"debug\")\n\t\tself.log_biz_msg(sql_name + \"=\\n\", sql, \"debug\")\n\tdef log_query_result(self, sql_name, result):\n\t\tself.log_biz_msg(sql_name + \"_RESULT\", str(result) + \" rows\", \"debug\")\n\t\tself.log_divider(\"debug\")\n\tdef dump_data(self, filename, data):\n\t\twith open(filename, 'wb') as filehandle:",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttoday",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\ttoday = datetime.now()\n\t\tfor filename in os.listdir(log_dir):\n\t\t\tfile_path = os.path.join(log_dir, filename)\n\t\t\tif os.path.isfile(file_path):\n\t\t\t\tfile_creation_time = datetime.fromtimestamp(os.path.getmtime(file_path))\n\t\t\t\tif (today - file_creation_time).days > max_retention_days:\n\t\t\t\t\tos.remove(file_path)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tfile_path",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\t\tfile_path = os.path.join(log_dir, filename)\n\t\t\tif os.path.isfile(file_path):\n\t\t\t\tfile_creation_time = datetime.fromtimestamp(os.path.getmtime(file_path))\n\t\t\t\tif (today - file_creation_time).days > max_retention_days:\n\t\t\t\t\tos.remove(file_path)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tfile_creation_time",
+        "kind": 5,
+        "importPath": "pynop.core.log",
+        "description": "pynop.core.log",
+        "peekOfCode": "\t\t\t\tfile_creation_time = datetime.fromtimestamp(os.path.getmtime(file_path))\n\t\t\t\tif (today - file_creation_time).days > max_retention_days:\n\t\t\t\t\tos.remove(file_path)",
+        "detail": "pynop.core.log",
+        "documentation": {}
+    },
+    {
+        "label": "Notify",
+        "kind": 6,
+        "importPath": "pynop.core.notifier",
+        "description": "pynop.core.notifier",
+        "peekOfCode": "class Notify:\n    def __init__(self, name):\n        \"\"\"\n        Initialize Notifier，support multiple notification tools.\n        :param name: notifier name\n        \"\"\"\n        self.name = name\n        self.notifiers = self._initialize_notifiers()\n    def _initialize_notifiers(self):\n        # Automatically initializes all available notification tools.",
+        "detail": "pynop.core.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "SlackNotify",
+        "kind": 6,
+        "importPath": "pynop.core.notifier",
+        "description": "pynop.core.notifier",
+        "peekOfCode": "class SlackNotify:\n    def __init__(self, name):\n        self.name = name\n        try:\n            self.channel_id = settings.SLACK_CHANNEL_ID\n            if hasattr(settings, \"SLACK_BOT_TOKEN\") and settings.SLACK_BOT_TOKEN:\n                self.client = WebClient(token=settings.SLACK_BOT_TOKEN)\n            else:\n                self.client = None\n            print(\"slack setting ******\")",
+        "detail": "pynop.core.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "EmailNotify",
+        "kind": 6,
+        "importPath": "pynop.core.notifier",
+        "description": "pynop.core.notifier",
+        "peekOfCode": "class EmailNotify:\n    def __init__(self, name):\n        self.name = name\n        self.server = None  # Initializing the SMTP connection\n        try:\n            # connect to SMTP server\n            self.sender_email = settings.SENDER_EMAIL\n            self.receiver_email = settings.RECEIVER_EMAIL.split(\",\")\n            self.email_server_addr = settings.EMAIL_SERVER_ADDR\n            self.email_server_port = settings.EMAIL_SERVER_PORT",
+        "detail": "pynop.core.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "DecimalEncoder",
+        "kind": 6,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "class DecimalEncoder(json.JSONEncoder):\n    def default(self, o):\n        if isinstance(o, Decimal):\n            return float(o)\n        if isinstance(o, Decimal128):\n            return float(o.to_decimal())\n        return json.JSONEncoder.default(self, o)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_today",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_today():\n\treturn date.today().strftime(\"%Y%m%d\")\ndef calc_etag(inputfile, partsize=0):\n\tif not partsize:\n\t\tpartsize = os.path.getsize(inputfile)\n\tmd5_digests = []\n\twith open(inputfile, 'rb') as f:\n\t\tfor chunk in iter(lambda: f.read(partsize), b''):\n\t\t\tmd5_digests.append(md5(chunk).digest())\n\treturn md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "calc_etag",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def calc_etag(inputfile, partsize=0):\n\tif not partsize:\n\t\tpartsize = os.path.getsize(inputfile)\n\tmd5_digests = []\n\twith open(inputfile, 'rb') as f:\n\t\tfor chunk in iter(lambda: f.read(partsize), b''):\n\t\t\tmd5_digests.append(md5(chunk).digest())\n\treturn md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))\ndef calc_etag_binary(binary):\n    md5_digests = []",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "calc_etag_binary",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def calc_etag_binary(binary):\n    md5_digests = []\n    md5_digests.append(md5(binary).digest())\n    return md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))\ndef get_content_type(path):\n\tmime = magic.Magic(mime=True)\n\treturn mime.from_file(path)\ndef get_last_modified(url):\n\tr = requests.head(url)\n\turl_date_str = r.headers['last-modified']",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_content_type",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_content_type(path):\n\tmime = magic.Magic(mime=True)\n\treturn mime.from_file(path)\ndef get_last_modified(url):\n\tr = requests.head(url)\n\turl_date_str = r.headers['last-modified']\n\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_last_modified",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_last_modified(url):\n\tr = requests.head(url)\n\turl_date_str = r.headers['last-modified']\n\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_key_with_value_in_dict",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_key_list_in_map_by_value",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_str_data",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def validate_str_data(data):\n\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)\n    num_list = []\n    for val in re_list:\n        if val.startswith('.'):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_numbers_in_str",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)\n    num_list = []\n    for val in re_list:\n        if val.startswith('.'):\n            num_list.append(val.replace('.', ''))\n        elif val.find('/') > 0:\n            spl_list = val.split('/')\n            value = int(spl_list[0]) / int(spl_list[1])\n            num_list.append(value)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_numeric_data",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def validate_numeric_data(data):\n    result = 0\n    if data:\n        try:\n            result = float(data)\n        except ValueError:\n            result = extract_numbers_in_str(data)\n    return result\ndef validate_int_data(data):\n    result = 0",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_int_data",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def validate_int_data(data):\n    result = 0\n    if data:\n        try:\n            result = int(data)\n        except ValueError:\n            result = extract_numbers_in_str(data)\n    return result\ndef get_utc_date(str_date, date_format):\n\tif str_date:",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_utc_date",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_utc_date(str_date, date_format):\n\tif str_date:\n\t\tdate_data = datetime.strptime(str_date, date_format)\n\t\tif date_data:\n\t\t\treturn datetime.utcfromtimestamp(date_data.timestamp())\n\treturn None\ndef extract_float_in_string(param):\n\tresult = re.sub(r\"[^\\d.]\", '', param)\n\treturn float(result)\ndef convert_dict_json(value):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_float_in_string",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def extract_float_in_string(param):\n\tresult = re.sub(r\"[^\\d.]\", '', param)\n\treturn float(result)\ndef convert_dict_json(value):\n\treturn json.dumps(value, cls=DecimalEncoder)\ndef convert_decimal128(param):\n\tif param is None or not isinstance(param, dict):\n\t\treturn None\n\tdict_item=param.copy()\n\tfor k, v in list(dict_item.items()):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_dict_json",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def convert_dict_json(value):\n\treturn json.dumps(value, cls=DecimalEncoder)\ndef convert_decimal128(param):\n\tif param is None or not isinstance(param, dict):\n\t\treturn None\n\tdict_item=param.copy()\n\tfor k, v in list(dict_item.items()):\n\t\tif isinstance(v, dict):\n\t\t\tconvert_decimal128(v)\n\t\telif isinstance(v, list):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_decimal128",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def convert_decimal128(param):\n\tif param is None or not isinstance(param, dict):\n\t\treturn None\n\tdict_item=param.copy()\n\tfor k, v in list(dict_item.items()):\n\t\tif isinstance(v, dict):\n\t\t\tconvert_decimal128(v)\n\t\telif isinstance(v, list):\n\t\t\tfor l in v:\n\t\t\t\tconvert_decimal128(l)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_decimal",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def convert_decimal(dict_item):\n    if dict_item is None: return None\n    for k, v in list(dict_item.items()):\n        if isinstance(v, dict):\n            convert_decimal(v)\n        elif isinstance(v, list):\n            for l in v:\n                convert_decimal(l)\n        elif isinstance(v, Decimal128):\n            dict_item[k] = Decimal(str(v))",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_response",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def get_response(url, domain):\n\tresult = None\n\tsession = requests.Session()\n\tretries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])\n\tsession.mount(domain, HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=retries))\n\ttry:\n\t\tresult = session.get(url)\n\texcept Exception as e:\n\t\tprint(str(e))\n\t\treturn None",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "download_file",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def download_file(url, download_folder_path, file_name):\n    isExist = os.path.exists(download_folder_path)\n    if not isExist:\n        os.makedirs(download_folder_path)\n    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}\n    response = requests.get(url, headers=headers)\n    full_path = download_folder_path + file_name\n    if response.status_code == 200:\n        with open(full_path, 'wb') as f:\n            f.write(response.content)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_all_in_zip",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def extract_all_in_zip(zip_file_path, extract_path):\n\tzf = ZipFile(zip_file_path)\n\tzf.extractall(extract_path)\ndef create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    range_dict = {\n        begin_num: begin_str,\n        end_num: end_str\n    }\n    for num in numpy.arange(begin_num, end_num, step):\n        range_dict[num] = f'{num} {step_str} {num + step}{step_end_str}'",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_range_dict",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    range_dict = {\n        begin_num: begin_str,\n        end_num: end_str\n    }\n    for num in numpy.arange(begin_num, end_num, step):\n        range_dict[num] = f'{num} {step_str} {num + step}{step_end_str}'\n    return range_dict\ndef find_range_result(val,begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    range_dict = create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_range_result",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def find_range_result(val,begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    range_dict = create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str)\n    if isinstance(step,int) or isinstance(step,float):\n        final_num = int(val/step)*step\n    else:\n        return None\n    if final_num < begin_num:\n        return begin_str\n    elif final_num > end_num:\n        return end_num",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_range_and_index",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def find_range_and_index(val,begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    result = {}\n    range_dict = create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str)\n    if isinstance(step,int) or isinstance(step,float):\n        final_num = int(val/step)*step\n        boundaries = sorted(range_dict.keys())\n        if final_num < begin_num:\n            range_index = 0\n            result['id'] = range_index\n            result['range'] = begin_str        ",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "download_picture",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def download_picture(picture_file_name, image_folder='product_images/'):\n    if 'haw' in settings.DB_CONFIG['env']:\n        url = 'https://www.hawthorneonline.com/'\n    else:\n        url = 'https://www.abcwarehouse.com/'\n    url += image_folder + picture_file_name\n    try:\n        return download_file(url, settings.WWWROOT_PRODUCT_IMAGES_DIR, picture_file_name)\n    except:\n        return None",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "download_promo_picture",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def download_promo_picture(picture_file_name):\n    return download_picture(picture_file_name, 'promo-product-square/')\ndef cmd_xcopy_file(src, dst):\n    # Check the operating system and use the respective command\n    if os.name == 'nt':  # Windows\n        cmd = f'xcopy \"{src}\" \"{dst}\" /Y'\n    else:  # Unix/Linux\n        cmd = f'cp \"{src}\" \"{dst}\"'\n    # Copy File\n    os.system(cmd)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_xcopy_file",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def cmd_xcopy_file(src, dst):\n    # Check the operating system and use the respective command\n    if os.name == 'nt':  # Windows\n        cmd = f'xcopy \"{src}\" \"{dst}\" /Y'\n    else:  # Unix/Linux\n        cmd = f'cp \"{src}\" \"{dst}\"'\n    # Copy File\n    os.system(cmd)\ndef copy_file(src, dst):\n    shutil.copyfile(src, dst)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy_file",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def copy_file(src, dst):\n    shutil.copyfile(src, dst)\ndef move_file(src, dst):\n    shutil.move(src, dst)\ndef move_dir(src, dst):\n    shutil.move(src, dst)\ndef remove_folder(folder_path):\n    shutil.rmtree(folder_path)\ndef same_picture_checking(image1, image2):\n    import imagehash",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "move_file",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def move_file(src, dst):\n    shutil.move(src, dst)\ndef move_dir(src, dst):\n    shutil.move(src, dst)\ndef remove_folder(folder_path):\n    shutil.rmtree(folder_path)\ndef same_picture_checking(image1, image2):\n    import imagehash\n    cutoff = 0.001  # maximum bits that could be different between the hashes.\n    nop_pic_binary_hash = imagehash.average_hash(image1)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "move_dir",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def move_dir(src, dst):\n    shutil.move(src, dst)\ndef remove_folder(folder_path):\n    shutil.rmtree(folder_path)\ndef same_picture_checking(image1, image2):\n    import imagehash\n    cutoff = 0.001  # maximum bits that could be different between the hashes.\n    nop_pic_binary_hash = imagehash.average_hash(image1)\n    stg_pic_binary_hash = imagehash.average_hash(image2)\n    if stg_pic_binary_hash - nop_pic_binary_hash < cutoff: # if same image",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "remove_folder",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def remove_folder(folder_path):\n    shutil.rmtree(folder_path)\ndef same_picture_checking(image1, image2):\n    import imagehash\n    cutoff = 0.001  # maximum bits that could be different between the hashes.\n    nop_pic_binary_hash = imagehash.average_hash(image1)\n    stg_pic_binary_hash = imagehash.average_hash(image2)\n    if stg_pic_binary_hash - nop_pic_binary_hash < cutoff: # if same image\n        return True\n    else:",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "same_picture_checking",
+        "kind": 2,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "def same_picture_checking(image1, image2):\n    import imagehash\n    cutoff = 0.001  # maximum bits that could be different between the hashes.\n    nop_pic_binary_hash = imagehash.average_hash(image1)\n    stg_pic_binary_hash = imagehash.average_hash(image2)\n    if stg_pic_binary_hash - nop_pic_binary_hash < cutoff: # if same image\n        return True\n    else:\n        return False\nclass DecimalEncoder(json.JSONEncoder):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpartsize",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tpartsize = os.path.getsize(inputfile)\n\tmd5_digests = []\n\twith open(inputfile, 'rb') as f:\n\t\tfor chunk in iter(lambda: f.read(partsize), b''):\n\t\t\tmd5_digests.append(md5(chunk).digest())\n\treturn md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))\ndef calc_etag_binary(binary):\n    md5_digests = []\n    md5_digests.append(md5(binary).digest())\n    return md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tmd5_digests",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tmd5_digests = []\n\twith open(inputfile, 'rb') as f:\n\t\tfor chunk in iter(lambda: f.read(partsize), b''):\n\t\t\tmd5_digests.append(md5(chunk).digest())\n\treturn md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))\ndef calc_etag_binary(binary):\n    md5_digests = []\n    md5_digests.append(md5(binary).digest())\n    return md5(b''.join(md5_digests)).hexdigest() + '-' + str(len(md5_digests))\ndef get_content_type(path):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tmime",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tmime = magic.Magic(mime=True)\n\treturn mime.from_file(path)\ndef get_last_modified(url):\n\tr = requests.head(url)\n\turl_date_str = r.headers['last-modified']\n\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tr",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tr = requests.head(url)\n\turl_date_str = r.headers['last-modified']\n\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\turl_date_str",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\turl_date_str = r.headers['last-modified']\n\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\turl_date_obj",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\turl_date_obj = datetime.strptime(url_date_str, '%b %d %Y %I:%M%p')\n\treturn url_date_obj\ndef get_key_with_value_in_dict(value, dict_obj):\n\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tkey",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tkey = None\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tkey_list",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tval_list",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tval_list = list(dict_obj.values())\n\tif value in val_list:\n\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tposition",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tposition = val_list.index(value)\n\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tkey",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tkey = key_list[position]\n\treturn key\ndef get_key_list_in_map_by_value(value, dict_obj):\n\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''\n\tif data:",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tkey_list",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tkey_list = list(dict_obj.keys())\n\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tval_list",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tval_list = list(dict_obj.values())\n\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tresult = [key_list[i] for i, x in enumerate(val_list) if x == value]\n\treturn result\ndef validate_str_data(data):\n\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)\n    num_list = []",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tresult = ''\n\tif data:\n\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)\n    num_list = []\n    for val in re_list:\n        if val.startswith('.'):\n            num_list.append(val.replace('.', ''))",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tresult = data.strip()\n\treturn result\ndef extract_numbers_in_str(params: str):\n    re_list: list[str] = re.findall('-?[0-9]+\\.[0-9]*|-?\\.[0-9]*|-?[0-9]+/[0-9]*|-?[0-9]+', params)\n    num_list = []\n    for val in re_list:\n        if val.startswith('.'):\n            num_list.append(val.replace('.', ''))\n        elif val.find('/') > 0:\n            spl_list = val.split('/')",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdate_data",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tdate_data = datetime.strptime(str_date, date_format)\n\t\tif date_data:\n\t\t\treturn datetime.utcfromtimestamp(date_data.timestamp())\n\treturn None\ndef extract_float_in_string(param):\n\tresult = re.sub(r\"[^\\d.]\", '', param)\n\treturn float(result)\ndef convert_dict_json(value):\n\treturn json.dumps(value, cls=DecimalEncoder)\ndef convert_decimal128(param):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tresult = re.sub(r\"[^\\d.]\", '', param)\n\treturn float(result)\ndef convert_dict_json(value):\n\treturn json.dumps(value, cls=DecimalEncoder)\ndef convert_decimal128(param):\n\tif param is None or not isinstance(param, dict):\n\t\treturn None\n\tdict_item=param.copy()\n\tfor k, v in list(dict_item.items()):\n\t\tif isinstance(v, dict):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdict_item[k]",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\t\tdict_item[k] = Decimal128(str(v))\n\treturn dict_item\ndef convert_decimal(dict_item):\n    if dict_item is None: return None\n    for k, v in list(dict_item.items()):\n        if isinstance(v, dict):\n            convert_decimal(v)\n        elif isinstance(v, list):\n            for l in v:\n                convert_decimal(l)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tresult = None\n\tsession = requests.Session()\n\tretries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])\n\tsession.mount(domain, HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=retries))\n\ttry:\n\t\tresult = session.get(url)\n\texcept Exception as e:\n\t\tprint(str(e))\n\t\treturn None\n\treturn result",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tsession",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tsession = requests.Session()\n\tretries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])\n\tsession.mount(domain, HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=retries))\n\ttry:\n\t\tresult = session.get(url)\n\texcept Exception as e:\n\t\tprint(str(e))\n\t\treturn None\n\treturn result\ndef download_file(url, download_folder_path, file_name):",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tretries",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tretries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])\n\tsession.mount(domain, HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=retries))\n\ttry:\n\t\tresult = session.get(url)\n\texcept Exception as e:\n\t\tprint(str(e))\n\t\treturn None\n\treturn result\ndef download_file(url, download_folder_path, file_name):\n    isExist = os.path.exists(download_folder_path)",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tresult",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\t\tresult = session.get(url)\n\texcept Exception as e:\n\t\tprint(str(e))\n\t\treturn None\n\treturn result\ndef download_file(url, download_folder_path, file_name):\n    isExist = os.path.exists(download_folder_path)\n    if not isExist:\n        os.makedirs(download_folder_path)\n    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tzf",
+        "kind": 5,
+        "importPath": "pynop.core.utils",
+        "description": "pynop.core.utils",
+        "peekOfCode": "\tzf = ZipFile(zip_file_path)\n\tzf.extractall(extract_path)\ndef create_range_dict(begin_num, begin_str, end_num, end_str, step, step_str,step_end_str=''):\n    range_dict = {\n        begin_num: begin_str,\n        end_num: end_str\n    }\n    for num in numpy.arange(begin_num, end_num, step):\n        range_dict[num] = f'{num} {step_str} {num + step}{step_end_str}'\n    return range_dict",
+        "detail": "pynop.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "NopData",
+        "kind": 6,
+        "importPath": "pynop.nop_data",
+        "description": "pynop.nop_data",
+        "peekOfCode": "class NopData:\n    # Product\n    sku_pid_map = {}\n    products_pub_del_tbl = {}\n    # Store\n    stores = {}\n    # Category\n    categories = {}\n    # Manufacturer\n    manufacturers = {}",
+        "detail": "pynop.nop_data",
+        "documentation": {}
+    },
+    {
+        "label": "NopQuery",
+        "kind": 6,
+        "importPath": "pynop.nop_sql",
+        "description": "pynop.nop_sql",
+        "peekOfCode": "class NopQuery(Query):\n    # Product\n    GET_ALL_SKU_PID_SQL = \"SELECT Sku, Id FROM Product ORDER BY Id\"\n    GET_ALL_PRODUCT_PUB_DEL_SQL = \"SELECT Id, Sku, Published, Deleted FROM Product\"\n    GET_NOP_PRODUCT_BY_SKU_SQL = \"SELECT * FROM Product WHERE Sku = '{sku}'\"\n    GET_PRODUCT_BY_ID_SQL = \"SELECT * FROM Product WHERE Id = ?\"\n    INSERT_COLUMN_LIST_4_4 = [\n        \"ProductTypeId\",\n        \"ParentGroupedProductId\",\n        \"VisibleIndividually\",",
+        "detail": "pynop.nop_sql",
+        "documentation": {}
+    },
+    {
+        "label": "NopTool",
+        "kind": 6,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "class NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):\n        if pid in NopData.products_pub_del_tbl.keys():\n            return NopData.products_pub_del_tbl[pid]['Sku']\n    def get_pid_from_sku(sku):\n        if sku in NopData.sku_pid_map.keys():\n            return NopData.sku_pid_map[sku]",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "nop_dao",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "nop_dao = AutoDao(\"nop\")\nNopData.sku_pid_map = nop_dao.get_hashmap(NopQuery.GET_ALL_SKU_PID_SQL)\nNopData.products_pub_del_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PUB_DEL_SQL)\nNopData.categories = nop_dao.get_hashtable(NopQuery.GET_ALL_CATEGORY_SQL)\nNopData.manufacturers = nop_dao.get_hashtable(NopQuery.GET_ALL_MANUFACTURER_SQL, key=1)\nNopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.sku_pid_map",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.sku_pid_map = nop_dao.get_hashmap(NopQuery.GET_ALL_SKU_PID_SQL)\nNopData.products_pub_del_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PUB_DEL_SQL)\nNopData.categories = nop_dao.get_hashtable(NopQuery.GET_ALL_CATEGORY_SQL)\nNopData.manufacturers = nop_dao.get_hashtable(NopQuery.GET_ALL_MANUFACTURER_SQL, key=1)\nNopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.products_pub_del_tbl",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.products_pub_del_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PUB_DEL_SQL)\nNopData.categories = nop_dao.get_hashtable(NopQuery.GET_ALL_CATEGORY_SQL)\nNopData.manufacturers = nop_dao.get_hashtable(NopQuery.GET_ALL_MANUFACTURER_SQL, key=1)\nNopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.categories",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.categories = nop_dao.get_hashtable(NopQuery.GET_ALL_CATEGORY_SQL)\nNopData.manufacturers = nop_dao.get_hashtable(NopQuery.GET_ALL_MANUFACTURER_SQL, key=1)\nNopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.manufacturers",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.manufacturers = nop_dao.get_hashtable(NopQuery.GET_ALL_MANUFACTURER_SQL, key=1)\nNopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):\n        if pid in NopData.products_pub_del_tbl.keys():",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.product_category_mappings",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.product_category_mappings = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_CATEGORY_MAPPING_SQL)\nNopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):\n        if pid in NopData.products_pub_del_tbl.keys():\n            return NopData.products_pub_del_tbl[pid]['Sku']",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.picture_title_map",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\nNopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):\n        if pid in NopData.products_pub_del_tbl.keys():\n            return NopData.products_pub_del_tbl[pid]['Sku']\n    def get_pid_from_sku(sku):",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    },
+    {
+        "label": "NopData.product_picture_mapping_tbl",
+        "kind": 5,
+        "importPath": "pynop.nop_tools",
+        "description": "pynop.nop_tools",
+        "peekOfCode": "NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\nclass NopTool:\n    def reload_picture_maps():\n        NopData.picture_title_map = nop_dao.get_hashmap(NopQuery.GET_ALL_PICTURE_SQL)\n        NopData.product_picture_mapping_tbl = nop_dao.get_hashtable(NopQuery.GET_ALL_PRODUCT_PICTURE_MAPPING_SQL)\n    def get_sku_from_pid(pid):\n        if pid in NopData.products_pub_del_tbl.keys():\n            return NopData.products_pub_del_tbl[pid]['Sku']\n    def get_pid_from_sku(sku):\n        if sku in NopData.sku_pid_map.keys():",
+        "detail": "pynop.nop_tools",
+        "documentation": {}
+    }
+]
